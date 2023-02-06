@@ -7,6 +7,7 @@ public class Sergio {
 	
 	public void hobbies() {
 		System.out.println("Deporte, musica, comida");
+		System.out.println("Paella, pasta y marisco");
 	}
 
 }
