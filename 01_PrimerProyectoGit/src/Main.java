@@ -11,7 +11,7 @@ public class Main {
 		sergio.hobbies();
 		System.out.println("CHRISTIAN");
 		christian.saludoChristian();
-		
+
 	}
 
 }
