@@ -9,7 +9,7 @@ package Sergio;
  */
 public class Sergio {
 	/**
-	 * Método que imprime por pantalla "Hola, soy Sergio"
+	 * Método que imprime por pantalla <b>"Hola, soy Sergio"</b>
 	 * 
 	 */
 	public void saludo() {
@@ -17,8 +17,8 @@ public class Sergio {
 	}
 	
 	/**
-	 * Método que imprime por pantalla "Deporte, musica, comida"
-	 * También imprime por pantalla "Arroz, garbanzos, lentejas"
+	 * Método que imprime por pantalla <b>"Deporte, musica, comida"</b>
+	 * También imprime por pantalla <b>"Arroz, garbanzos, lentejas"</b>
 	 *
 	 */
 	public void hobbies() {
